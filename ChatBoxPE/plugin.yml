@@ -1,0 +1,6 @@
+name: ChatBoxPE 
+main: CPA\ChatBox
+version: 0.1
+api: [1.0.0]
+load: POSTWORLD
+author: FXXK

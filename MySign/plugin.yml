@@ -1,0 +1,13 @@
+﻿name: MySign
+main: sign\sign
+version: 1.0.5
+api: [1.0.0]
+load: POSTWORLD
+author: FXXK
+commands:
+ mysign:
+  description: mysign command
+  useage: 
+ qiandao:
+  description: mymotd command
+  useage: 
