@@ -3,4 +3,18 @@ main: CPA\Account
 version: 0.1
 api: [1.0.0]
 load: POSTWORLD
-author: FXXK
+author: FXXK(jasonczc)
+
+commands:
+  APban:
+    description: "ban command for op"
+    usage: "/APban <add|delete> <playername>"
+  APquery:
+    description: "query command for op"
+    usage: "/APquery <playername>"
+  APset:
+    description: "set command for op"
+    usage: "/APset <playername> <column> <data>"
+  APdelete:
+    description: "delete command for op"
+    usage: "/APdelete <playername>>"
